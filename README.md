@@ -3,7 +3,7 @@
 </div>
 <div id="heading-content" align="center">
 <h3 align="center">
-	Welcome to Gigabit Tech Studio LLC.
+	Welcome to Gigabit LLC.
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0062FF&width=1200&lines=Gigabit+Tech+Studio+LLC+is+an+agency+that+stands+for+uniqueness+and+uncompromised+quality.+)
 </h3> 
