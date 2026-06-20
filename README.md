@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://gigabit.agency/wp-content/uploads/2024/04/Gigabit-Brand-Logo-Favicon-300x300.png" width="120" alt="Gigabit"/>
+<img src="https://avatars.githubusercontent.com/u/112450849?v=4" width="120" alt="Gigabit"/>
 
 # Gigabit
 
@@ -16,7 +16,7 @@ We audit your operations, build production AI systems, and operate them —
 [![Website](https://img.shields.io/badge/gigabit.agency-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gigabit.agency)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/gigabithq/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GigabitHQ)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GigabitTech)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GigabitHQ)
 
 </div>
 
